@@ -1,1 +1,2 @@
 Hello from my local repository
+This line was added directly on GitHub
